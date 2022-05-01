@@ -4,7 +4,7 @@
         beforeEach(() => {
             cy.visit('https://skillsmatch.mdx.ac.uk/en/search/')
         })
-//here i will check the transaltion from english to arabic that we select from the advance options
+//here it will check the transaltion from english to arabic that we select from the advance options
         it('translation', () => {    
             //log in by type these values in user name and password
           cy.get('[id=username]').type('kev') 
