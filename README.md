@@ -5,19 +5,6 @@ application. You need to write the required scripts to test:
 - Update my skills feature: At least one test case
 - Search feature: Test cases that cover the happy scenarios only
 
-[See this recording for more details](https://najah.zoom.us/rec/share/1Jr6prov2twHAV0WqMNgO6MzribGmLIQ-XMTZGwN7Q5_8j1sSel5m0aB3iPqBOo.ctTCdfaXGI4Nf7jS?startTime=1650320306000)
-
-Your submission should include:
-
-- [ ] A *file contain* detailed test cases
-- [ ] *Update Readme file to include* report explain our script
-- [ ] *Delivery on the moodle* A repo link
-- [ ] *Create* A video that shows script run
-
-Useful links:
-- [w2school XPath tutorial](https://www.w3schools.com/xml/xpath_intro.asp)
-- [cypress repo](https://github.com/cypress-io/cypress-xpat)
-
 
 # Demo for update My Skills - Ahed
 
@@ -27,6 +14,14 @@ https://user-images.githubusercontent.com/99614732/166158568-fa745c17-8db5-49e8-
 # image run code update my skills- Ahed
 https://user-images.githubusercontent.com/99614732/166158657-cea081ab-166f-4428-bb88-fc023945935c.png
 
-# test case details 
 
+# Demo for search page adavnce options-With all of the keywords-Noor
+https://user-images.githubusercontent.com/68377272/166160701-96d04623-e3c7-4673-8ac8-93e3796a65d0.mp4
+
+
+# Demo for search page adavnce options-Translate to english / Sort based on user reviews -Noor
+https://user-images.githubusercontent.com/68377272/166160726-aaf58a3e-db86-48d4-9a29-95b075929ea6.mp4
+
+
+# test case details 
 https://docs.google.com/spreadsheets/d/1SeJxeejEZOnF90NXkWAIEVg4rCQePD2XiSSZRjBoyjw/edit?usp=sharing
