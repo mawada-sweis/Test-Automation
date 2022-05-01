@@ -23,5 +23,4 @@ https://user-images.githubusercontent.com/68377272/166160701-96d04623-e3c7-4673-
 https://user-images.githubusercontent.com/68377272/166160726-aaf58a3e-db86-48d4-9a29-95b075929ea6.mp4
 
 
-# test case details 
-https://docs.google.com/spreadsheets/d/1SeJxeejEZOnF90NXkWAIEVg4rCQePD2XiSSZRjBoyjw/edit?usp=sharing
+
