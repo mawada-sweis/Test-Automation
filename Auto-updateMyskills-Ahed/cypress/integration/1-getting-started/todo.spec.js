@@ -71,14 +71,16 @@ describe('example skillsmatch app', () => {
     cy.get('[test-data=Confirm]').click({force: true})
 
   //---------- after check and test form----------
-  //---then test contant page (star and rate)
+  //---then test content page (star and rate)
 
   //----- First area (professional engagement) -----
   // the first take arae 1 scor (0/16) and siblit this rate to take for example nubmer 0 and number 16 
-  // then combut the the scour shonwn on the star  related on two number then use function round to round the result 
+  // then compute the score shown on the star related on two number then use function round to round the result 
   // get my scoure area and find the star tha has been fill then use function should 
 
-  //For each area score in the contents page, the same steps were applied
+  //....For each area score in the contents page, the same steps were applied....
+    
+    
     cy.get('[test-data=area_1_Scor]', { timeout: 2000 }).invoke('text')
      .then(text => {
  
@@ -90,7 +92,7 @@ describe('example skillsmatch app', () => {
    
     const result = Math.round(TheRate)
    
-    cy.log(result);
+    cy.log(result); // the result that should showen on star
   
    cy.get('[test-data=area_1_myscore]').find('[test-data=filledStar]').should('have.length', result)
  });
