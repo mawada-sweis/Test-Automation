@@ -1,0 +1,25 @@
+{
+  "name": "test-automation",
+  "version": "1.0.0",
+  "description": "Practice on Automation testing",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  },
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mawada-sweis/Test-Automation.git"
+  },
+  "author": "Group 3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mawada-sweis/Test-Automation/issues"
+  },
+  "homepage": "https://github.com/mawada-sweis/Test-Automation#readme",
+  "dependencies": {
+    "cypress-xpath": "^1.6.2"
+  }
+}
